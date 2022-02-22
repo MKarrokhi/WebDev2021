@@ -4,7 +4,7 @@ export const robots = [
 		name: 'Mustafa Karrokhi',
 		aname: 'مصطفى كروخي',
 		username: 'm.bukhari',
-		email: 'm.bukhari@albaladalameen.com.sa'
+		email: 'mustafa.karrokhi@gmail.com'
 	},
 	{
 		id: 2,
