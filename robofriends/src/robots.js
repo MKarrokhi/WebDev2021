@@ -47,5 +47,12 @@ export const robots = [
 		aname: 'عبدالرحمن مصطفى كروخي',
 		username: 'AbdurRahman',
 		email: 'ar.karrokhi@gmail.com'
+	},
+	{
+		id: 8,
+		name: 'Sundus Karrokhi',
+		aname: 'سندس مصطفى كروخي',
+		username: 'Sundus',
+		email: 'sundus@gmail.com'
 	}
 ];
